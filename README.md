@@ -8,7 +8,6 @@ Este projeto explora o uso de estados de jogo, detecção de colisão e renderiz
 * **Motor de Física Simples:** Implementação de gravidade e aceleração para o salto do personagem.
 * **Detecção de Colisão:** Lógica para identificar a interseção entre o "Square" e os obstáculos em tempo real.
 * **Game Loop:** Controle de frames para garantir a fluidez da animação e o aumento progressivo da dificuldade.
-* **Manipulação de Áudio:** Sincronização de efeitos sonoros com as ações de jogo para melhorar a experiência do usuário (UX).
 
 ## 🛠️ Tecnologias Utilizadas
 * **JavaScript (ES6+):** Lógica central e manipulação de eventos de teclado.
